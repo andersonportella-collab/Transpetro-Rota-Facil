@@ -1,0 +1,115 @@
+Centro;Denominação;UO;Local
+FP01;TM;TM;Rio de Janeiro
+L001;TABG - GNL;UO-RJMG;Rio de Janeiro
+T001;TECAM;UO-RJMG;Duque de Caxias
+T002;Japeri;UO-RJMG;Japeri
+T003;Volta Redonda;UO-RJMG;Volta Redonda
+T004;Estação Tapinhoã;UO-RJMG;Rio das Flores
+T005;Estação da Mantiqueira;UO-RJMG;Santos Dumont
+T006;Estação Betim;UO-RJMG;Betim
+T007;Cabiúnas;UO-RJMG;Macaé
+T008;TABG - IDAG;UO-RJMG;Rio de Janeiro
+T009;TABG - IRED / ICOMP;UO-RJMG;Rio de Janeiro
+T010;Angra - AP;UO-RJMG;Angra dos Reis
+T011;Angra - ASA;UO-RJMG;Angra dos Reis
+T012;Vitória;UO-BAES; Vitória
+T013;Regência;UO-BAES;Linhares
+T014;São Caetano do Sul;UO-SPPCO;São Caetano do Sul
+T015;Barueri;UO-SPPCO;Barueri
+T016;Guarulhos;UO-SPL;Guarulhos
+T017;Guararema;UO-SPPCO;Guararema
+T018;São José dos Campos;UO-SPPCO;São José dos Campos
+T019;Estação Capuava;UO-SPPCO;Mauá
+T020;Estação Pirassununga;UO-SPPCO;Pirassununga
+T021;Estação Buriti Alegre;UO-SPPCO;Buriti Alegre
+T022;Ribeirão Preto;UO-SPPCO;Ribeirão Preto
+T023;Uberaba;UO-SPPCO;Uberaba
+T024;Uberlândia;UO-SPPCO;Uberlândia
+T025;Senador Canedo;UO-SPPCO;Senador Canedo
+T026;Brasília;UO-SPPCO;Brasília
+T033;Estação Paulínia;UO-SPPCO;Paulínia
+T034;Estação Rio Pardo;UO-SPPCO;Caraguatatuba
+T035;Estação Guaratuba;UO-SPL;Bertioga
+T036;São Sebastião;UO-SPL;São Sebastião
+T037;Santos;UO-SPL;Santos
+T038;Cubatão;UO-SPL;Cubatão
+T039;TEFRAN;UO-SUL;São Francisco do Sul
+T040;Estação Triunfo;UO-SUL;Triunfo
+T041;Guaramirim;UO-SUL;Guaramirim
+T042;Irajaí;UO-SUL;Itajaí
+T043;Biguaçu;UO-SUL;Biguaçú
+T044;Osório;UO-SUL;Osório
+T045;TT Niterói;UO-SUL;Canoas
+T046;Rio Grande;UO-SUL;Rio Grande
+T048;Paranaguá;UO-SUL;Paranaguá
+T050;Estação REPAR;UO-SUL;Araucária
+T051;Suape;UO-NES;Ipojuca
+T052;Estação Pilar;UO-NES;Pilar
+T053;Maceio;UO-NES;Maceió
+T054;Jaboatão;UO-NES;Jaboatão dos Guararapes
+T055;Estação Guamaré;UO-RJMG;Guamaré
+T056;Estação Fortaleza;UO-NES;Fortaleza
+T057;Atalaia;UO-NES;Aracajú
+T059;Belém;UO-NORTE;Belém
+T060;Coari;UO-NORTE;Coari
+T062;São Luis;UO-NORTE;São Luis
+T064;Madre de Deus;UO-BAES;Madre de Deus
+T065;Jequié;UO-BAES;Jequié
+T066;Itabuna;UO-BAES;Itabuna
+T067;Candeias;UO-BAES;Candeias
+T071;Manaus - REMAN;UO-NORTE;Manaus
+T073;Terminal Norte Capixaba;UO-BAES;São Mateus
+T075;Salvador;UO-BAES;Salvador
+T079;Maracanau;UO-NES;Maracanaú
+T080;Mossoró;UO-NES;Mossoró
+T085;TABR;UO-BAES;Aracruz
+T088;Pecém;UO-NES;São Gonçalo Do Amarante
+T089;Atibaia;UO-SPPCO;Atibaia
+T090;Estação Santa Isabel;UO-SPPCO;Santa Isabel
+T095;Estação Taubaté;UO-SPPCO;Taubaté
+T096;Caju;UO-RJMG;Rio de Janeiro
+T097;Piúma;UO-BAES;Piúma
+T101;Base Santa Rita (Madre);UO-BAES;Santa Rita
+SD01;Sede;SEDE;Rio de Janeiro
+T027;Estação Araraquara;-;Araraquara
+T028;Estação Bauru;-;Bauru
+T029;Estação Ourinhos;-;Ourinhos
+T030;Estação Santa Adélia;UO-SPL;Santa Adélia
+T031;Estação Sertãozinho;-;Sertãozinho
+T032;Estação Brasília;UO-SPPCO;Brasília
+T047;Terminal Niterói;UO-SUL;Canoas
+T049;Terminal Londrina;UO-SUL;Londrina
+T058;Terminal Macapá;UO-NORTE;Santana
+T061;Terminal Cabedelo;UO-NES;Cabedelo
+T063;Terminal Natal;UO-NES;Natal
+T068;Cubatão - RPBC;UO-SPL;Cubatão
+T069;Estação Suzano;UO-SPPCO;Suzano
+T070;São Francisco do Conde - RLAM;UO-BAES;São Francisco do Conde
+T072;TEFER - Terminal Ferroviário (Paulínia);UO-SPPCO;Paulínia
+T074;Pojuca - BA;UO-BAES;Pojuca
+T076;Camaçari - BA;UO-BAES;Camaçari
+T077;Carmópolis - BA;UO-BAES;Aracaju
+T078;Marechal Deodoro - AL;UO-NES;Marechal Deodoro
+T081;Recife - PE;UO-NES;Recife
+T082;Terminal Bragança Paulista;UO-SPL;Bragança Paulista
+T083;Cuiabá - MT;UO-SPPCO;Cuiabá
+T084;Terminal Macaíba - RN;UO-NES;Macaíba
+T086;Campo Grande - MS;UO-SPPCO;Campo Grande
+T087;Terminal Caucaia -CE;UO-NES;Caucaia
+T091;Paulista;-;São Paulo
+T092;Petrobras Transporte S.A. NUVIG;-;Rio de janeiro
+T093;Petrobras Transporte S.A. Guaratuba;UO-SUL;Guaratuba
+T094;Transpetro EDIVIT;UO-BAES;Vitória
+T098;Terminal Santo Antônio;UO-SUL;Santo Antônio da Patrulha
+T099;Hidrovia Tietê/Paraná - Base De Apoio;-;Araçatuba
+T100;Estação Compressão Prado;UO-BAES;Alcobaça
+T102;Escritório Joinville;UO-SUL;Joinville
+T103;Terminal Imbé;UO-SUL;Imbé
+T104;Petrobras Transporte S/A;UO-RJMG;Rio de Janeiro
+T109;Estação Caraguatatuba;UO-SPPCO;Caraguatatuba
+T110;Estação São Bernardo do Campo;UO-SPPCO;São Bernardo do Campo
+T901;T901-Treinamento Pm/Qm;UO-RJMG;Duque de Caxias
+T903;T903-Treinamento Pm/Qm;UO-RJMG;Volta Redonda
+TB01;Terminal Belém;UO-NORTE;Belém
+TRPT;Sede;-;Rio de Janeiro
+ZT60;Zt60-Transpetro;-;Manaus
