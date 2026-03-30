@@ -708,7 +708,7 @@ with st.sidebar:
 
     # Manual
     st.markdown(
-        f"[{t('sidebar_manual')}](f"[{t('sidebar_manual')}](https://github.com/andersonportella-collab/Rota-Facil-TP/blob/main/Manual_Transpetro_Rota_Facil_v3.pdf)")"
+        (f"[{t('sidebar_manual')}](https://github.com/andersonportella-collab/Rota-Facil-TP/blob/main/Manual_Transpetro_Rota_Facil_v3.pdf)")"
     )
 
     # Citações (expander)
